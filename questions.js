@@ -484,6 +484,16 @@ export const questions = [{
         tip3: "Prorok Achijasz dał mu dziesięć kawałków szaty porwanej na dwanaście części._1 Królów 11:29-31",
         tip4: "Był synem Nebata i zaczął odciągać Izraela od Jehowy._2 Królów 17:21",
         tip5: "Pierwszy król oderwanego dziesięcioplemiennego królestwa Izraela._1 Królów 11:31"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Achab",
+        tip1: "Będąc królem Izraela, zbudował sobie dom z kości słoniowej._1 Królów 22:39",
+        tip2: "Jego nadzorca Abdiasz, zaopatrywał w chleb i wodę 50 proroków ukrytych w jaskini._1 Królów 18:3,4",
+        tip3: "Król Izraela, który zadał klęskę Ben-Hadadowi, królowi Asyrii._1 Królów 20:26-30",
+        tip4: "Temu królowi Eliasz zapowiedział susze i głód w Samarii._1 Królów 17:1",
+        tip5: "Mąż Jezebel._1 Królów 16:31"
     }
 
 
