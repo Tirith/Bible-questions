@@ -494,6 +494,166 @@ export const questions = [{
         tip3: "Król Izraela, który zadał klęskę Ben-Hadadowi, królowi Asyrii._1 Królów 20:26-30",
         tip4: "Temu królowi Eliasz zapowiedział susze i głód w Samarii._1 Królów 17:1",
         tip5: "Mąż Jezebel._1 Królów 16:31"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Jezebel",
+        tip1: "Córka Etbala, króla Sydończyków._1 Królów 16:31",
+        tip2: "Przy swym stole żywiła 450 proroków Baala._1 Królów 18:19",
+        tip3: "Jej imieniem została nazwana kobieta w Tiatyrze, która wywierała tam zły wpływ._Objawienia 2:20",
+        tip4: "Zagroziła śmiercią Eliaszowi, który z tego powodu uciekł na pustkowie._1 Królów 19:2",
+        tip5: "Na polecenie Jehu dworzanie wyrzucili ją przez okno._2 Królów 9:33"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Atalia",
+        tip1: "Królowa, która zgładziła całe potomstwo królewskie i zawładneła tronem._2 Królów 11:1",
+        tip2: "Przez 6 lat ukrywano przed nią młodocianego następce tronu Jehoasza._2 Królów 11:2",
+        tip3: "Wprowadziła kult Baala w Jerozolimie._2 Kronik 24:7",
+        tip4: "Królowa którą uśmiercono, gdy Jehoasz zaostał ogłoszony królem Judy._2 Królów 11:20",
+        tip5: "Córka Jezebel i Achaba._2 Królów 8:18"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Eliasz",
+        tip1: "Prorok, Teszbita, który przepowiedział Achabowi, że nie będzie rosy ani deszczu._1 Królów 17:1",
+        tip2: "Modlił się, aby nie było deszczu i został wysłuchany. Nie padało przez trzy i pół roku._Jakuba 5:17,18",
+        tip3: "Prorok który po jednym posiłku, szedł 40 dni i 40 nocy do góry Horeb._1 Królów 19:8",
+        tip4: "Kruki przynosiły mu mięso i chleb w dolinie Kerit._1 Królów 17:5,6",
+        tip5: "Mieszkanka Carefat dała mu resztę chleba i powiedziała: 'Zjemy to i umrzemy'._1 Królów 17:12"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Elizeusz",
+        tip1: "Sprawił, że żelazna część siekiery, która wpadła do wody, wypłyneła na powierzchnię._2 Królów 6:6",
+        tip2: "Uzdrowił wody Jerycha przez wrzucenie soli do źródła._2 Królów 2:20,21",
+        tip3: "Został powołany na proroka gdy był na polu z 12 bykami._1 Królów 19:19",
+        tip4: "Wskrzesił syna gośćinnej wdowy z Szunem._2 Królów 4:35,36",
+        tip5: "Powiedział do Naamana: 'Idź tam i wykąp się w Jordanie siedem razy._2 Królów 5:10'"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Jehu",
+        tip1: "Król znany z tego, że jeździł jak szalony._2 Królów 9:20",
+        tip2: "Strzelił z łuku i zabił uciekającego Jehorama._2 Królów 9:24",
+        tip3: "Jezebel zapytała go: 'Czy powiodło się Zimriemu, zabójcy swego pana?'._2 Królów 9:31",
+        tip4: "Kazał zgładzić wszystkich czcicieli Baala._2 Królów 10:19-25",
+        tip5: "Prorok Jehowy namaścił go na króla nad Izraelem i rzekł: 'Masz zgładzic dom Achaba'._2 Królów 9:6,7"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Izajasz",
+        tip1: "Jego żonę nazwano prorokinią._Izajasza 8:3",
+        tip2: "Syn Amoca._Izajasza 1:1",
+        tip3: "Napisał: 'Biada mocnym w piciu wina'._Izajasza 5:22",
+        tip4: "Napisał: 'Wy jesteście moimi świadkami - brzmi wypowiedź Jehowy'._Izajasza 43:10",
+        tip5: "Szczegółowo przepowiedział życie, smierć i chwałę Jezusa._Izajasza 53:1-12; 9:1-7"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Ezechiasz",
+        tip1: "Zostało mu przedłużone 15 lat, po wysłuchaniu jego modlitwy._Izajasza 38:5",
+        tip2: "Posłańcom króla Babilonu pokazał skarbiec, zbrojownie i wszystko na całym obszarze swgo panowania._Izajasza 39:1,2",
+        tip3: "Król, który drzwi świątyni pokryte złotem dał królowi Asyrii._2 Królów 18:16",
+        tip4: "Dla niego cień cofnął się o 10 stopni._2 Królów 20:10,11",
+        tip5: "Syn Achaza, który pousuwał wyzyny, święte słupy i potłukłmiedzianego węża._2 Królów 18:1-8"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Jozjasz",
+        tip1: "Prorokini Hulda oznajmiła mu że ponieważ jego serce okazało się wrażliwe to nie będzie patrzeć na całe nieszczęście, które sprowadzi na to miejsce._2 Królów 22:19,20",
+        tip2: "Jeremiasz ułożył pieśń żałobną, gdy ten został zabity przez żołnierzy króla Necho._2 Kronik 35:25",
+        tip3: "Ten król oczyścił Judę i Jerozolimę ze wszystkiego, co służyło bałwochwalstwu._2 Kronik 34:3-7",
+        tip4: "Panował od 659 p.n.e do 629 p.n.e._",
+        tip5: "Ostatni dobry król Judy._2 Kronik 34:2"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Jeremiasz",
+        tip1: "Zwój ze słowami tego proroka król pociął na kawałki i spalił._Jeremiasza 36:23",
+        tip2: "Powiedział: 'Przechytrzyłeś mnie Jehowo'._Jeremiasza 20:7",
+        tip3: "Prorok zabrany do Egiptu, gdzie spędził ostatnie lata życia._Jeremiasza 43:6,7",
+        tip4: "Tłumaczył się: 'Ach Jehowo! Nie umiem mówić, bo jestem jeszcze chłopcem'._Jeremiasza 1:6",
+        tip5: "Wrzucono go do cysterny z błotem._Jeremiasza 38:6"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Nebukadneccar",
+        tip1: "Król, który pozabijał synów Sedekiasza._2 Królów 25:7",
+        tip2: "Panował od 624r p.n.e do 582r p.n.e_",
+        tip3: "Zburzył mury Jerozolimy oraz spalił świątynię._2 Królów 25:8-10",
+        tip4: "Król, którego wypędzono spośród ludzi._Daniela 4:33",
+        tip5: "Zabrał do Babilonu święte naczynia ze świątyni w Jerozolimie._2 Królów 25:13-16"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Daniel",
+        tip1: "Powiedział: 'Wnikliwi będą jaśnieć jak blask przestworza'._Daniela 12:3",
+        tip2: "Powiedziano do niego: 'Okryj te słowa tajemnicą i zapieczętuj księgi aż do czasu końca'._Daniela 12:4",
+        tip3: "Panował nad stu satrapami którzy stali nad całym królestwem._Daniela 6:1-3",
+        tip4: "Nie skalał się przysmakami króla._Daniela 1:8",
+        tip5: "Wrzucono go do lwiej jamy._Daniela 6:16"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Sedekiasz",
+        tip1: "W nocy uciekł z oblężonej Jerozolimy i został złapany na równinach Jerycha._Jeremiasza 52:8",
+        tip2: "Dwaj prorocy zapowiedzieli temu królowi niewolę babilońską._Jeremiasza 32:5; Ezechiela 12:13",
+        tip3: "Król Babilonu spętał go miedzianymi okowami i zaprowadził do Babilonu._2 Królów 25:7",
+        tip4: "Syn Jozjasza i Chamutal._2 Królów 24:17,18",
+        tip5: "Kazał wyciągnąć proroka Jeremiasza z cysterny._Jeremiasza 38:10"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Ezechiel",
+        tip1: "Usłyszał od Jehowy: 'Synu człowieczy, wstań. Będe do ciebie mówił'._Ezechiela 2:1",
+        tip2: "Syn kapłana Buzziego, będący na wygnaniu z królem Jechojachinem._Ezechiela 1:1-3",
+        tip3: "Kazano mu na cegle wyryć miasto Jerozolimę._Ezechiela 4:1",
+        tip4: "Prorokował od 613r p.n.e do 591r p.n.e._",
+        tip5: "Powiedziano do niego: 'Synu człowieczy (...). Zjedz ten zwój i idź, mów do domu izraelskiego'._Ezechiela 3:1"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Belszaccar",
+        tip1: "Wyprawił ucztę dla tysiąca dygnitarzy babilońskich._Daniela 5:1",
+        tip2: "Ustanowił Daniela trzecim władcą w królestwie._Daniela 5:29",
+        tip3: "Podczas uczty kazał przynieść złote naczynia zabrane ze świątyni w Jerozolimie._Daniela 5:5",
+        tip4: "Król babiloński zabity przez Medów i Persów._Daniela 5:30,31",
+        tip5: "Ostatni król Babilonu._Daniela 5:30"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Zerubbabel",
+        tip1: "Namiestnik żydowski z lini rodowej Dawida._1 Kronik 3:17-19; Łukasza 3:27",
+        tip2: "Cyrus powierzył mu złote naczynia zabrane przez Nebukadneccara z Jerozolimy._Ezdrasza 5:14.15",
+        tip3: "Jego praca przy świątyni została wstrzymana pismem króla Artakserksesa._Ezdrasza 4:1-24",
+        tip4: "Poprowadził ostatek żydów z powrotem do Jerozolimy w roku 537 p.n.e._Ezdrasza 2:2",
+        tip5: "Usłyszał wypowiedź Jehowy:  'Nie wojskiem, nie mocą, lecz moim duchem._Zachariasza 4:6'"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Ezdrasz",
+        tip1: "Stał na drewnianym podium i czytał prawo Mojżeszowe ludowi który powrócił z Babilonu._Nehemiasza 8:4,5",
+        tip2: "Biegły przepisywacz w dziedzinie prawa Mojżeszowego._Ezdrasza 7:6",
+        tip3: "Żądał od Izraelitów aby odprawili swoje cudzoziemskie żony._Ezdrasza 10:10",
+        tip4: "Pismem Artakserksesa został upoważniony do ustanawiania urzędników sądowych i sędziów aby sądzili cały lud._Ezdrasza 7:25",
+        tip5: "Napisał dwie księgi Kronik oraz księge noszącą jego imie._"
     }
 
 
@@ -501,7 +661,7 @@ export const questions = [{
 
 
 
-//export default questions;
+
 
 // {
 //     category: "Osoba",

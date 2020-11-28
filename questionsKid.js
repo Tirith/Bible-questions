@@ -48,6 +48,16 @@ export const questionsKid = [{
         tip3: "Urodziła syna Izaaka w podeszłym wieku._Rodzaju 18:11,21:2",
         tip4: "Była jednocześnie żoną i siostrą Abrahama._Rodzaju 20:12",
         tip5: "Jej imię zaczyna się na literę S._"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Jonasz",
+        tip1: "Kapitan statku powiedział do niego: 'Dlaczego śpisz? Wstań i módl się do swojego Boga'._Jonasza 1:6",
+        tip2: "Syn Amittaja, któremu Jehowa kazał udac sie do NIniwy i glosic przeciwko niej._Jon 1:1",
+        tip3: "Wyrzucono go poza statek, gdzie połkneła go wielka ryba._Jonasza 1:15-17",
+        tip4: "Gniewał się na Jehowę, że nie zniszczył Niniwy._Jonasza 4:6,7",
+        tip5: "W skutek jego głoszenia mieszkańcy Niniwy uwierzyli w Boga._Jonasza 3:5"
     }
 
 ];
