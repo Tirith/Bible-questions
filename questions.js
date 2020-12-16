@@ -143,29 +143,11 @@ export const questions = [{
         tip4: "To wydarzenie było obok jaskini._Jana 11:38",
         tip5: "Jezus wtedy zapłakał._Jana 11:35"
     },
-    {
-        category: "Przedmiot",
-        answer: "Szkarłatna lina",
-        tip1: "Służył do uratowania dwóch ludzi._Jozuego 2:18",
-        tip2: "Przedmiot był własnością kobiety._Jozuego 2:15",
-        tip3: "Przedmiot posłużył także do uratowania tej kobiety i jej rodziny._Jozuego 2:13",
-        tip4: "Przedmiot ten był użyty w górnej części muru miasta._Jozuego 2:15",
-        tip5: "Kobieta która użyła tego przedmiotu, żyła potem wśród Izrealitów._Jozuego 6:25"
-    },
 
-    {
-        category: "Przedmiot",
-        answer: "Arka Noego",
-        tip1: "Dzięki niemu wszyscy żyjemy._Rodzaju 9:1",
-        tip2: "Przedmiot był w większości wykonany z drewna żywicznego._Rodzaju 6:14",
-        tip3: "Przez pewien czas mieszkała tam rodzina._Rodzaju 7:1",
-        tip4: "Przedmiot ten był długi na 300 łokci._Rodzaju 6:15",
-        tip5: "Ten przedmiot miał okno._Rodzaju 6:16"
-    },
     {
         category: "Osoba",
         answer: "Ismael",
-        tip1: "Urodzony w 1932 p.n.e Zmarł w 1795 p.n.e",
+        tip1: "Urodzony w 1932 p.n.e Zmarł w 1795 p.n.e_",
         tip2: "Gdy był chłopcem, Bóg usłyszał jego głos i anioł zawołał jeego matkę._Rodzaju 21:17",
         tip3: "Zamieszkał na pustkowiu Paran i został łucznikiem._Rodzaju 21:20,21",
         tip4: "Hagar wzięła dla niego żonę z ziemi egipskiej._Rodzaju 21:21",
@@ -238,7 +220,7 @@ export const questions = [{
     {
         category: "Osoba",
         answer: "Józef",
-        tip1: "Urodzony w 1767r p.n.e. Zmarł w 1657r p.n.e.",
+        tip1: "Urodzony w 1767r p.n.e. Zmarł w 1657r p.n.e._",
         tip2: "Z niego wywiodły się dwa plemiona: Efraima i Manassesa._Rodzaju 46:20",
         tip3: "Przepowiedział 7 lat obfitości i 7 lat klęski głodu na podstawie snu Faraona._Rodzaju 41:25-30",
         tip4: "Rozmawiał ze swoimi braćmi przez tłumacza._Rodzaju 42:23",
@@ -298,7 +280,7 @@ export const questions = [{
     {
         category: "Osoba",
         answer: "Aaron",
-        tip1: "Urodzony w 1597r p.n.e. Zmarł w 1474r p.n.e.",
+        tip1: "Urodzony w 1597r p.n.e. Zmarł w 1474r p.n.e._",
         tip2: "Stojąc między martwymi a żywymi, powstrzymał plagę._Liczb 16:48",
         tip3: "Pierwszy kapłan noszący na zwoju lśniącą płytkę z napisem: 'Świętość należy do Jehowy'._Wyjścia 28:1,36",
         tip4: "Jego laska wypuściła pąki i okryła się kwaitami oraz wydała dojrzałe migdały._Liczb 17:8",
@@ -469,7 +451,7 @@ export const questions = [{
     {
         category: "Osoba",
         answer: "Rechoboam",
-        tip1: "Panował od 997r p.n.e do 980r p.n.e.",
+        tip1: "Panował od 997r p.n.e do 980r p.n.e._",
         tip2: "Król, który odrzucił radę starszych usługujących na dworze jego ojca._1 Królów 12:8",
         tip3: "Wykonał tarcze miedziane w miejsce złotych, które zabrał król egipski Sziszak._2 Kronik 12:9,10",
         tip4: "Powiedział: 'Ojciec mój karał was zwykłym biczem, a ja was będe karał biczem z kolcami._1 Królów 12:11'",
@@ -654,6 +636,241 @@ export const questions = [{
         tip3: "Żądał od Izraelitów aby odprawili swoje cudzoziemskie żony._Ezdrasza 10:10",
         tip4: "Pismem Artakserksesa został upoważniony do ustanawiania urzędników sądowych i sędziów aby sądzili cały lud._Ezdrasza 7:25",
         tip5: "Napisał dwie księgi Kronik oraz księge noszącą jego imie._"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Nehemiasz",
+        tip1: "Nakazał, żeby bramy Jerozolimy były w sabat pozamykane._Nehemiasza 13:19",
+        tip2: "Po odbudowaniu murów Jerozolimy wyznaczył odźwiernych i śpiewaków._Nehemiasza 7:1",
+        tip3: "Targał za włosy i mówił żeby Izraelici nie brali sobie za żony cudzoziemek._Nehemiasza 13:23-26",
+        tip4: "Podczaszy króla perskiego, Artakserksesa._Nehemiasza 1:11",
+        tip5: "Artakserkses zapytał go: 'Czemu twoja twarz jest posępna, skoro nie jesteś chory?'._Nehemiasza 2:2"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Aswerus",
+        tip1: "Król, który posługiwał się kurierami konnymi jadącymi na koniach pocztowych._Estery 8:10",
+        tip2: "Król, który wydał dekret dotyczący poddaństwa żon w całym jego królestwie._Estery 1:22",
+        tip3: "Wydał rozkaz, żeby w jego królestwie wymordowano wszystkich Żydów._Estery 3:13",
+        tip4: "Odprawił swoją żonę Waszti, za nieposłuszeństwo._Estery 1:19-22",
+        tip5: "Mardocheusz uratował go od śmierci z rąk spiskujących dworzan._Estery 2:21-23"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Estera",
+        tip1: "Królowa perska, która ustanowiła święto Purim._Estery 9:32",
+        tip2: "Miała też na imię Hadassa._Estery 2:7",
+        tip3: "Królowa która uratowała wszystkich Żydów w imperium perskim._Estera 7:3",
+        tip4: "Król Aswerus uczynił ją królową w miejsce Waszti._Estery 2:17",
+        tip5: "Żydowska niewolnica, którą Mardocheusz przyjął za córkę._Estery 2:7"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Herod Wielki",
+        tip1: "Po nim królem został jego syn Archelaus._Mateusza 2:22",
+        tip2: "Prawdopodobny budowniczy świątyni, o której Żydzi mówili, że budowano ją 46 lat._Jana 2:20",
+        tip3: "Panował od 39r p.n.e._",
+        tip4: "Po jego śmierci Jezus wrócił z egiptu._Mateusza 2:19-21",
+        tip5: "Wezwał astrologów i starannie się od nich wywiedział o czas ukazania się gwiazdy._Mateusza 2:7"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Zachariasz",
+        tip1: "Kapłan z oddziału Abijasza._Łukasza 1:5,60",
+        tip2: "Anioł powiedział do niego: 'Jestem Gabriel, który stoi tuz przed Bogiem'._Łukasza 1:19",
+        tip3: "O nim i jego żonie powiedziano: 'Nienagannie postępowali według wszystkich przykazań oraz prawnych wymagań Jehowy'._Łukasza 1:6",
+        tip4: "Maria przyszła do jego domu i tam pozdrowiła jego żonę._Łukasza 1:40",
+        tip5: "Poprosił o tabliczkę i napisał: 'Jego imie to Jan'._Łukasza 1:63"
+    },
+
+
+    {
+        category: "Osoba",
+        answer: "Maria",
+        tip1: "Symeon rzekł do niej: 'Został On dany żeby wielu w Izraelu upadło i ponownie powstało'._Łukasza 2:34",
+        tip2: "Podczas wesela w Kanie, zauważyła że zabrakło wina._Jana 2:3",
+        tip3: "Córka Helego._Łukasza 3:23",
+        tip4: "Z mężem i swoim synem uciekli do Egiptu._Mateusza 2:13-16",
+        tip5: "Anioł pozdrowił ją słowami: 'Witaj obdarzona łaską'._Łukasza 1:28"
+    },
+
+
+    {
+        category: "Osoba",
+        answer: "Jan Chrzciciel",
+        tip1: "Głosił na psutkowiu Judzkim._Mateusza 3:1,2",
+        tip2: "Urodzony w 3 roku p.n.e._",
+        tip3: "Powiedziano o nim: 'Spośród ludzi nie został powołany większy niż on'._Mateusza 11:11",
+        tip4: "Miał odzież z sierści wielbłąda  i jadł szarańcze._Mateusza 3:4",
+        tip5: "Ochrzcił Jezusa w rzece Jordan._Marka 1:9"
+    },
+
+
+    {
+        category: "Osoba",
+        answer: "Piotr",
+        tip1: "Powiedział do chorego: 'Nie mam złota ani srebra, ale dam ci to co mam'._Dzieje Apostolskie 3:6",
+        tip2: "Apostoł, który przemiawiał w dniu Pięćdziesiątnicy._Dzieje Apostolskie 2:14",
+        tip3: "Wskrzesił Dorkas, mówiąc: 'Tabito, wstań!'._Dzieje Apostolskie 9:40",
+        tip4: "Podczas przemienienia powiedział do Jezusa: 'Rabbi, to wspaniale, że tu jesteśmy'._Marka 9:5",
+        tip5: "Jezus powiedział mu: 'Karm moje baranki'._Jana 21:15"
+    },
+
+
+    {
+        category: "Osoba",
+        answer: "Jakub",
+        tip1: "Zmarł w 44r n.e stracony przez Heroda Agryppę._Dzieje Apostolskie 12:1,2",
+        tip2: "Tylko jemu, Piotrowi i Janowi wolno było wejść do domu Jaira, gdzie Jezus wskrzesił dziewczynkę._Łukasza 8:51",
+        tip3: "On oraz Piotr i Jan mogli widzieć przemienienie Jezusa._Mateusza 17:1,2",
+        tip4: "Jemu i jego bratu Janowi, nadano przydomek: Synowie Gromu._Marka 3:17",
+        tip5: "Brat Jana i syn Zebedeusza._Mateusza 4:21"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Jan",
+        tip1: "Napisał: 'Dzieci, powinniśmy kochać nie słowami, ale uczynkami i prawdą'._1 Jana 3:18",
+        tip2: "Został zesłany na wyspę Patmos za mówienie o Bogu i świadczenie o Jezusie._Objawienia 1:9",
+        tip3: "Uczeń którego Jezus szczególnie miłował._Jana 13:23",
+        tip4: "Po śmierci Jezusa zaopiekował się jego matką._Jana 19:27",
+        tip5: "Napisał: 'Na początku było Słowo'._Jana 1:1"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Apostoł Filip",
+        tip1: "Uczeń z Betsaidy._Jana 1:44",
+        tip2: "Przyprowadził Natanaela do Jezusa._Jana 1:45-47",
+        tip3: "Jezus mu rzekł: 'Tyle czasu jestem z wami, a nie poznałeś mnie?'._Jana 14:9",
+        tip4: "Poprosił Jezusa: 'Panie, pokaż nam Ojca i to nam wystarczy'._Jana 14:8",
+        tip5: "Powiedział do Jezusa: 'Gdzie nakupimy chlebów, żeby jedli'._Jana 6:5"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Natanael",
+        tip1: "Powiedział do Jezusa: 'Rabbi, tyś jest Syn Boży, tys jest król Izraela'._Jana 1:49",
+        tip2: "Uczeń Jezusa pochodzący z Kany Galilejskiej._Jana 21:2",
+        tip3: "Jezus rzekł do niego: 'Zanim cię Filip zawołał, gdy byłeś pod drzewem figowym, widziałem cię'._Jana 1:48",
+        tip4: "Powiedział do Filipa: 'Czy z Nazaretu może wyjść coś dobrego?'._Jana 1:46",
+        tip5: "Jezus powiedział o nim: 'Oto naprawdę Izraelita, w którym nie ma podstępu'._Jana 1:47"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Tomasz",
+        tip1: "Powiedział do Jezusa: 'Mój Pan i mój Bóg'._Jana 20:28",
+        tip2: "Jezus skierował do niego słowa: 'Ja jestem drogą i prawdą i życiem. Nikt nie przychodzi do Ojca inaczej, jak tylko przezemnie'._Jana 14:6",
+        tip3: "Powiedział: 'Chodźmy i my, żeby z nim umrzeć'._Jana 11:16",
+        tip4: "Był nieobecny, gdy Jezus po wskrzeszeniu przyszedł do zebranych uczniów._Jana 20:24",
+        tip5: "Jezus powiedział do niego: 'Włóż tu palec i zobacz moje ręce'._Jana 20:27"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Nikodem",
+        tip1: "Powiedział: 'Czyż nasze prawo osądza człowieka, jeśli go najpierw nie wysłucha'._Jana 7:51",
+        tip2: "Jan mówił o nim: 'Człowiek spośród faryzeuszy, jeden z władców żydowskich'._Jana 3:1",
+        tip3: "Powiedział do Jezusa: 'Rabbi, wiemy że jako nauczyciel przyszedłeś od Boga'._Jana 3:2",
+        tip4: "Jezus rzekł mu: 'Jeżeli ktoś nie narodzi się z wody i ducha, nie może wejść do Królestwa Bożego'._Jana 3:5",
+        tip5: "Członek Sanhedrynu, który przyszedł do Jezusa w nocy._Jana 3:2"
+    },
+
+
+    {
+        category: "Osoba",
+        answer: "Samarytanka",
+        tip1: "Jezus powiedział do niej: 'Bóg jest duchem, a ci, którzy go czczą, muszą oddawać cześć duchem i prawdą'._Jana 4:24",
+        tip2: "Powiedziała: 'Chodźcie, zobaczcie człowieka który powiedział mi wszystko, co czyniłam'._Jana 4:29",
+        tip3: "Mieszkała w Sychar._Jana 4:8-27",
+        tip4: "Powiedziała do Jezusa: 'Widzę że jesteś prorokiem'._Jana 4:19",
+        tip5: "Była zaskoczona, że Jezus, będąc Żydem, rozmawia z nią._Jana 4:9"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Marta",
+        tip1: "Mieszkanka Betanii, która gościnnie przyjeła Jezusa._Łukasza 10:38",
+        tip2: "Powiedziała do Jezusa: 'Uwierzyłam, że ty jesteś Chrystusem, Synem Bożym'._Jana 11:27",
+        tip3: "Jezus powiedział jej: 'Ja jestem zmartwychwstaniem i życiem. Lto we mnie wierzy ten choćby nawet umarł, ożyje'._Jana 11:25",
+        tip4: "Jezus powiedział do niej: 'Maria zaś wybrała dobrą cząstke i ta nie zostanie jej odebrana'._Łukasza 10:42",
+        tip5: "Usłyszała od Jezusa: 'Martwisz się i niepokoisz o wiele rzeczy. A przecież potrzebnych jest niewiele rzeczy lub nawet tylko jedna'._Łukasza 10:41"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Maria z Betanii",
+        tip1: "W trosce o sprawy duchowe, zajmowanie się sprawami cielesnymi postawiła na drugim planie._Łukasza 10:39-42",
+        tip2: "Usłyszała: 'Nauczyciel jest tu obecny i cię woła'._Jana 11:28",
+        tip3: "Usiadła u stóp Jezusa._Łukasza 10:39",
+        tip4: "Natarła stopy Jezusa wonnym olejkiem._Jana 12:3",
+        tip5: "Siostra Marty i Łazarza._Jana 11:1"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Zacheusz",
+        tip1: "Jezus powiedział do niego: 'Dzisiaj wybawienie przyszło do tego domu, gdyż i on jest synem Abrahama'._Łukasza 19:9",
+        tip2: "Jezus wstąpił do tego poborcy podatków, gdy był w drodze do Jerycha._Łukasza 19:1,5",
+        tip3: "Mówiono o nim, że Jezus zatrzymał się na kwaterze u mężczyzny, który jest grzesznikiem._Łukasza 19:7",
+        tip4: "Powiedział: 'Oto połowę mojego mienia, oddaje biednym'._Łukasza 19:8",
+        tip5: "Wdrapał się na drzewo figowe, żeby zobaczyć Jezusa._Łukasza 19:4"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Kajfasz",
+        tip1: "Jezus rzekł do niego: 'Odtąd będziecie widzieć Syna Człowieczego siedzącego po prawicy mocy i przychodzącego na obłokach nieba._Mateusza 26:64'",
+        tip2: "Zaopatrzył Saula w listy do synagog w Damaszku, by mógł prześladować chrześcijan._Dzieje Apostolskie 9:1,2",
+        tip3: "Rozdarł swoje szaty, mówiąc: 'Zbluźnił! Na cóż nam jeszcze potrzeba świadków?'._Mateusza 26:65",
+        tip4: "Powiedział do Jezusa: 'Poprzesięgam cię na Boga żywego, abyś nam powiedział, czy jesteś Chrystusem, Symen Bożym?'._Mateusza 26:63",
+        tip5: "Arcykapłan, który był zięciem Annasza._Jana 18:13"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Piłat",
+        tip1: "Zmieszał krew pewnych Galilejczyków z ich ofiarami._Łukasza 13:1",
+        tip2: "Powiedział: 'Co napisałem, to napisałem'._Jana 19:22",
+        tip3: "Zapytał Jezusa: 'Co to jest prawda?'._Jana 18:38",
+        tip4: "Zapytał Jezusa: 'Czy jesteś królem żydów?'._Mateusza 27:11",
+        tip5: "Chcąc zadowolić tłum, zwolnił Barabasza, a Jezusa kazał ubiczować._Marka 15:15"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Józef z Arymatei",
+        tip1: "Poważany członek Rady, który sam też oczekiwał królestwa Bożego._Marka 15:43",
+        tip2: "Bogaty człowiek, który został uczniem Jezusa._Mateusza 27:57",
+        tip3: "Towarzyszył Nikodemowi w przygotowaniu ciała Jezusa do pogrzebu._Jana 19:38-40",
+        tip4: "Poszedł do Piłata i poprosił o ciało Jezusa._Mateusza 27:58",
+        tip5: "Pochował Jezusa we własnym grobowcu wykutym w skale._Mateusza 27:57-60"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Szczepan",
+        tip1: "Gdy głosił przeciwnikom, 'jego oblicze było jak oblicze anioła'._Dzieje Apostolskie 6:15",
+        tip2: "Gdy przed Sanhedrynem wygłsił mowę obronną, oni poczuli się zranieni w serce i zaczeli zgrzytać na niego zębami._Dzieje Apostolskie 7:54",
+        tip3: "Pełen łaski oraz mocy, dokonywał wielkich cudów proroczych i znaków wśród ludu._Dzieje Apostolskie 6:8",
+        tip4: "Modlił się za prześladowców: 'Jehowo, nie policz im tego grzechu'._Dzieje Apostolskie 7:60",
+        tip5: "Gdy go kamienowano, błagał: 'Panie Jezusie, przyjmij mojego ducha'._Dzieje Apostolskie 7:59"
+    },
+
+    {
+        category: "Osoba",
+        answer: "Barnabas",
+        tip1: "W Listrze nazwano go Zeusem._Dzieje Apostolskie 14:12",
+        tip2: "Poszedł do Tarsu, by poszukać Pawła, i zabrał go do Antiochi gdzie uczniów nazwano chrześcijanami._Dzieje Apostolskie 11:25,26",
+        tip3: "Wbrew woli Pawła zabrał Marka i odpłynął na Cypr, by tam głosić._Dzieje Apostolskie 15:39",
+        tip4: "Lewita z Cypru, który sprzedał swoje pole, a pieniądze złożył u stóp apostołów._Dzieje Apostolskie 4:36,37",
+        tip5: "Jego imie znaczy: 'Syn Pocieszenia'._Dzieje Apostolskie 4:36"
     }
 
 
@@ -661,14 +878,4 @@ export const questions = [{
 
 
 
-
-
-// {
-//     category: "Osoba",
-//     answer: "",
-//     tip1: "",
-//     tip2: "",
-//     tip3: "",
-//     tip4: "",
-//     tip5: ""
-// }
+//module.exports = questions;

@@ -1,16 +1,31 @@
 {
     "name": "odgadnij",
     "version": "1.0.0",
-    "description": "",
     "main": "app.js",
     "scripts": {
-        "build": "webpack"
+        "build": "webpack",
+        "test": "jest"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "devDependencies": {
+        "jest": "^26.6.3",
         "webpack": "^5.4.0",
         "webpack-cli": "^4.2.0"
-    }
+    },
+    "dependencies": {
+        "@babel/core": "^7.12.10",
+        "@babel/preset-env": "^7.12.11",
+        "babel-jest": "^26.6.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tirith/Bible-questions.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Tirith/Bible-questions/issues"
+    },
+    "homepage": "https://github.com/Tirith/Bible-questions#readme",
+    "description": ""
 }
